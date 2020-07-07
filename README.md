@@ -4,8 +4,8 @@ I'm Pol — a Computer Engineer at Github from Barcelona. I love to code and I g
 #
 
 ### 📫 Get in touch
-* [Website](polmonroig.com)
-* [Linkedin](linkedin.com/in/polmonroig/)
+* [Website](https://www.polmonroig.com)
+* [Linkedin](https://www.linkedin.com/in/polmonroig/)
 * [Email](mailto:polmonroig@gmail.com )
 
 
