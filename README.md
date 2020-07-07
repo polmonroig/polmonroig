@@ -1,5 +1,5 @@
 ### Hi there 👋
-*I'm Pol — a Computer Engineer at Github from Barcelona. I love to code and I get very easily excited on any aspect regarding computers, especially AI.*
+*I'm Pol — a Computer Engineer at Github from Barcelona. I love to code and I get very excited about any aspect regarding computers, especially AI.*
 
 #
 
