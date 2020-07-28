@@ -2,7 +2,7 @@
 *I'm Pol — a Computer Engineer at Github from Barcelona. I love to code and I get very excited about any aspect regarding computers, especially AI.*
 
 ### Personal Blog 
-I currently write machine learning [posts](https://dev.to/polmonroig) at dev.to! So don't hesitate reading some 😉
+I currently write machine learning [posts](https://blog.polmonroig.com), they are at [dev.to](https://dev.to/polmonroig) too! So don't hesitate reading some 😉
 
 ### 📫 Get in touch
 * [Website](https://www.polmonroig.com)
