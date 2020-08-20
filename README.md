@@ -7,7 +7,7 @@ I currently write machine learning [posts](https://blog.polmonroig.com), they ar
 ### 📫 Get in touch
 * [Website](https://www.polmonroig.com)
 * [Linkedin](https://www.linkedin.com/in/polmonroig/)
-* [Email](mailto:polmonroig@gmail.com )
+* [Email](mailto:hello@polmonroig.com)
 
 
 <!--
